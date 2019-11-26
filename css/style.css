@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+
+@import url(./partial/_variable.css);
+
+
+
+.header_area .main-menu .navbar .navbar-brand {
+    padding: 0 2rem 0 4rem;
+}
+
+.header_area .main-menu .navbar {
+
+    padding: 1rem 7rem 1rem 3rem;
+}
+ 
+.header_area .main-menu .nav-item .nav-link{
+    padding: 1.2rem;
+    font-family: var(--font);
+    font-weight: 500;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.header_area .main-menu .navbar-nav .active a{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.header_area .main-menu .navbar-nav  a:hover {
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.site-main .site-banner .site-title h1{
+    padding-top: 35%;
+    font-weight: 500;
+    font-size: 5rem;
+    font-family: var(--font);
+}
+
+
+
+.site-main .site-banner .site-title .typing {
+    padding: 0%;
+    margin-left: 1px;
+    position: relative;
+    color: black;
+    font-family: var(--font);
+}
+.site-main .site-banner .site-title .typing::after {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 72px;
+    border-right: 2px solid black;
+    animation: blink 0.2s infinite ease;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+
+.site-main .site-banner .site-title h4{
+    font-size: 1.5rem;
+}
+
+.site-main .site-banner .banner-image > img{
+    padding: 8rem 0;
+    width: 90rem;
+}
+.button{
+    padding: .7rem 2rem;
+    font-family: var(--font);
+    position: relative;
+    border: 6px solid transparent;
+    border-radius: 6px;
+    background: var(--gradient-color);
+    background-clip: padding-box;
+    color: whitesmoke;
+    transition: background .6s ease;
+}
+
+
+.button:hover{
+    background: whitesmoke;
+    background-clip: padding-box;
+    color: black;
+}
+
+.button::after{
+    position: absolute;
+    top: -2px; left: -2px;
+    bottom: -2px;  right: -2px;
+    background: var(--gradient-color);
+    content: ' ';
+    z-index: -1;
+    border-radius: 4px;
+}
+

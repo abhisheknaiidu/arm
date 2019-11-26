@@ -1,0 +1,15 @@
+  
+html,body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+:root {
+    --primary-color: #15616D;
+    --font:'Covered By Your Grace', cursive;
+    --gradient-color: linear-gradient(to right top, #51203c, #6c3155, #884371, #a5568e, #c16aad, #ac6eb6, #9672bc, #7d76be, #3b6394, #154a63, #142e35, #111212);
+    --box-shadow: 0px 10px 30px rgba(199, 58, 112, 0.753);
+
+}
