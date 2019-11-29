@@ -1,5 +1,5 @@
 # A-R-M
-Basically, ARM stands for Abhishek, Ritik and Mudit, The People behind this Project!
+Basically, ARM stands for Abhishek, Ritik and Mudit, The People behind this Awesome Project!
 
 ARM is a place for users, to upload,download and manage important documents like Notes, Scholarships and Internships Details for a Particular Discipline. Not only this, By keeping Security and Privacy in Mind, We also created an ADMIN named ARM to look after the documents, That were Uploaded By Various Students!  
 
@@ -58,5 +58,10 @@ USER'S PAGE : ARM Can DELETE any USER!
 
 ![Screenshot](arm_users.png)
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 
