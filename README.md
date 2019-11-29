@@ -5,7 +5,7 @@ ARM is a place for users, to upload,download and manage important documents like
 
 ```diff
 
-SOME OF THE SCREENSHOTS OF THE PROJECTS :
+-SOME OF THE SCREENSHOTS OF THE PROJECTS :
 ```
 
 ```diff
