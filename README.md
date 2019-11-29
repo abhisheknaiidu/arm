@@ -8,65 +8,70 @@ SOME OF THE SCREENSHOTS OF THE PROJECTS :
 
 
 ```diff
-- PORTAL'S HOME PAGE :
- red
++ PORTAL'S HOME PAGE :
 
 ```
-PORTAL'S HOME PAGE :
 
 ![Screenshot](front.png)
 
 
-SIGN-UP PAGE :
+```diff
++ SIGN-UP PAGE :
 
+```
 ![Screenshot](signup.png)
 
+```diff
++ LOGIN PAGE :
 
-LOGIN PAGE :
+```
 
 ![Screenshot](login.png)
 
+```diff
++ USER'S HOME PAGE :
 
-USER'S HOME PAGE :
+```
 
 ![Screenshot](documents.png)
 
+```diff 
++ PROFILE PAGE :
 
-PROFILE PAGE :
+```
 
 ![Screenshot](profile.png)
 
+```diff
++ EDIT PROFILE PAGE :
 
-EDIT PROFILE PAGE :
-
+```
 ![Screenshot](edit_profile.png)
 
+```diff
++ MY DOCUMENTS PAGE - List of Various Documents Posted By Respective User in the Portal. 
 
-MY DOCUMENTS PAGE - List of Various Documents Posted By Respective User in the Portal. 
-
+```
 ![Screenshot](my_documents.png)
 
+```diff
++ UPLOADING PAGE - For Uploading Documents Page.
 
-UPLOADING PAGE - For Uploading Documents Page.
-
+```
 ![Screenshot](upload.png)
 
+```diff
+-AFTER UPLOADING, ARM, The Admin of the Portal Has To give approval to the particular document to get it published in the Portal. 
 
-AFTER UPLOADING, ARM, The Admin of the Portal Has To give approval to the particular document to get it published in the Portal. 
-
-ARM's HOME PAGE :
-
++ ARM's HOME PAGE :
+```
 ![Screenshot](arm.png)
 
+```diff
++ USER'S PAGE : ARM Can DELETE any USER!
 
-USER'S PAGE : ARM Can DELETE any USER!
-
+```
 ![Screenshot](arm_users.png)
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
+
 
