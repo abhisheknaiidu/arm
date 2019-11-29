@@ -7,6 +7,11 @@ ARM is a place for users, to upload,download and manage important documents like
 SOME OF THE SCREENSHOTS OF THE PROJECTS :
 
 
+```diff
+- PORTAL'S HOME PAGE :
+ red
+
+```
 PORTAL'S HOME PAGE :
 
 ![Screenshot](front.png)
