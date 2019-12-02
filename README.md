@@ -11,7 +11,7 @@ ARM is a place for users, to upload,download and manage important documents like
   * Install LAMP Server
   * Clone the repository: `git clone https://github.com/abhisheknaiidu/A-R-M.git`
   * Copy ARM folder to `/var/www/html/`
-  * Open Browser and navigate to http://localhost/ARM/
+  * Open Browser and navigate to `http://localhost/ARM/`
 
 * MAC 
 
@@ -19,8 +19,15 @@ ARM is a place for users, to upload,download and manage important documents like
   * Navigate to Applications/MAMP/htdocs/
   * Clone the repository: `git clone https://github.com/abhisheknaiidu/A-R-M.git`
   * Start MAMP Server
-  * Open Browser and navigate to http://localhost/ARM/
+  * Open Browser and navigate to `http://localhost/ARM/`
 
+* WINDOWS
+
+  * Install WAMP Server
+  * Navigate to the directory `/wamp/www`
+  * Clone the repository: `git clone https://github.com/abhisheknaiidu/A-R-M.git`
+  * Start the WAMP Server
+  * Open Browser and navigate to `http://localhost/ARM/`
 
 
 ## SCREENSHOTS :
