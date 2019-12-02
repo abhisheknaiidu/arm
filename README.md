@@ -3,10 +3,19 @@ Basically, ARM stands for Abhishek, Ritik and Mudit, The People behind this Awes
 
 ARM is a place for users, to upload,download and manage important documents like Notes, Scholarships and Internships Details for a Particular Discipline. Not only this, By keeping Security and Privacy in Mind, We also created an ADMIN named ARM to look after the documents, That were Uploaded By Various Students!  
 
-```diff
+## INSTALLATION :
 
--SCREENSHOTS OF THE ARM PORTAL :
-```
+
+* LINUX
+
+  * Install LAMP Server
+  * Clone the repository: `git clone https://github.com/abhisheknaiidu/A-R-M.git`
+  * Copy ARM folder to `/var/www/html/`
+  * Open Browser and navigate to http://localhost/ARM/
+
+
+## SCREENSHOTS :
+
 
 ```diff
 + PORTAL'S HOME PAGE :
