@@ -6,12 +6,21 @@ ARM is a place for users, to upload,download and manage important documents like
 ## INSTALLATION :
 
 
-* LINUX
+* LINUX 
 
   * Install LAMP Server
   * Clone the repository: `git clone https://github.com/abhisheknaiidu/A-R-M.git`
   * Copy ARM folder to `/var/www/html/`
   * Open Browser and navigate to http://localhost/ARM/
+
+* MAC 
+
+  * Install MAMP Server
+  * Navigate to Applications/MAMP/htdocs/
+  * Clone the repository: `git clone https://github.com/abhisheknaiidu/A-R-M.git`
+  * Start MAMP Server
+  * Open Browser and navigate to http://localhost/ARM/
+
 
 
 ## SCREENSHOTS :
